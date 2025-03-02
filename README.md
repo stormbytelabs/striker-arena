@@ -1,1 +1,1 @@
-# striker-arena
+# Striker Arena
